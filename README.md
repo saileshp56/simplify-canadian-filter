@@ -1,9 +1,11 @@
+If you're a Canadian student and want to ignore the jobs on the simplify github that need American citizenship / don't offer sponsorship, you can use this
+
 ```
 cd simplify-readme-filter
 npm run build && npm start
 ```
 
-Then go into `output_md_files/filtered_lines.md` and just render that as markdown
+Then go into `output_md_files/filtered_lines.md` and just render that as markdown. This won't have any jobs that are non-applicable to you
 
 This is made for Canadian students so they don't have to see the jobs strictly for USA citizens / those that don't need USA sponsorship
 
